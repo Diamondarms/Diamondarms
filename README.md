@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diamondarms
 - 👀 I’m interested in software engineer and game development
-- 🌱 I’m currently learning unity3D, windows forms
+- 🌱 I’m currently learning HTML-CSS
 
 <!---
 Diamondarms/Diamondarms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Diamondarms
-- 👀 I’m interested in software engineer and game development
-- 🌱 I’m currently learning HTML-CSS
+Me chamo Guilherme Tonon
+Tenho interesse na área de engenharia de software e game development
+Estou no momento aprendendo HTML CSS e Javascript
 
-<!---
-Diamondarms/Diamondarms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![Codewars](https://github.r2v.ch/codewars?user=Diamondarms&stroke=%23BB432C)
+<div > ![Codewars](https://github.r2v.ch/codewars?user=Diamondarms&stroke=%23FFFFFF) </div>

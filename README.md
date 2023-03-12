@@ -7,4 +7,7 @@
 
 ___
 
-<div > <img src="https://github.r2v.ch/codewars?user=Diamondarms&stroke=%23FFFFFF" width="400px" height="160px"> </div>
+<div >
+  <img src="https://github.r2v.ch/codewars?user=Diamondarms&stroke=%23FFFFFF" width="400px" height="160px">
+  <img src="https://b.thumbs.redditmedia.com/W66kLCP1emnu3zgrMkcraAbSBbmoo2hFahjZmYFyv_I.jpg" width="160px" height="160px">
+</div>

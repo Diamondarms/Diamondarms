@@ -5,9 +5,9 @@
   <li><h3>Estou no momento aprendendo HTML CSS e Javascript</h3>
 </ul>
 
-___
+##
 
-<div >
+<div>
   <img src="https://github.r2v.ch/codewars?user=Diamondarms&stroke=%23FFFFFF" width="400px" height="160px">
-  <img src="https://b.thumbs.redditmedia.com/W66kLCP1emnu3zgrMkcraAbSBbmoo2hFahjZmYFyv_I.jpg" width="160px" height="160px" padding"30px">
+  <img align="top"src="https://upload.wikimedia.org/wikipedia/en/d/d9/Mike_Mentzer.jpg" width="160px" height="156px">
 </div>

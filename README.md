@@ -7,4 +7,4 @@ Diamondarms/Diamondarms is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Codewars](https://github.r2v.ch/codewars?user=Diamondarms&stroke=%23BB432C
+![Codewars](https://github.r2v.ch/codewars?user=Diamondarms&stroke=%23BB432C)

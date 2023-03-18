@@ -1,15 +1,15 @@
-<h3 align="center">Learning HTML CSS and Javascript</h3>
+<h3>Learning HTML CSS and Javascript</h3>
 
 ##
 
-<div align="center">
+<div>
   <img align="top"src="https://upload.wikimedia.org/wikipedia/en/d/d9/Mike_Mentzer.jpg" width="160px" height="156px">
   <img src="https://github.r2v.ch/codewars?user=Diamondarms&stroke=%23FFFFFF" width="400px" height="160px">
 </div>
 
 ##
 
-<div align="center">
+<div>
   <a href="https://www.codewars.com/users/Diamondarms"><img src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=darkred"></a>
   <a href="https://soundcloud.com/user-436917043"><img src="https://img.shields.io/badge/Soundcloud-dd3300?style=for-the-badge&logo=SoundCloud&logoColor=white"></a>
   <a href="https://steamcommunity.com/id/VisualmenteBurro/"><img src="https://img.shields.io/badge/Steam-00346B?style=for-the-badge&logo=steam&logoColor=white"></a>

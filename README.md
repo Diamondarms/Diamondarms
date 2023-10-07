@@ -1,9 +1,8 @@
-<h3>Learning HTML CSS Javascript and CSharp</h3>
+<h3>Angular and CSharp</h3>
 
 ##
 
 <div>
-  <img align="top"src="https://upload.wikimedia.org/wikipedia/en/d/d9/Mike_Mentzer.jpg" width="160px" height="156px">
   <img src="https://github.r2v.ch/codewars?user=Diamondarms&stroke=%23FFFFFF" width="400px" height="160px">
 </div>
 

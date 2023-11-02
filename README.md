@@ -23,4 +23,5 @@
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" height="30" width="30">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" height="30" width="30">
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="30" width="30">
+  <img src="https://hermes.dio.me/skills/74c60cf1-3b24-4fcc-b2a8-59c31c153f26.png" alt="SQL Server" height="30" width="30">
 </div>
